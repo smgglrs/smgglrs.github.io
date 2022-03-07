@@ -2,3 +2,18 @@ baseURL = "https://smgglrs.io/"
 languageCode = "en-us"
 title = "Smgglrs - Hiding vowels from your sight"
 theme = "hallo"
+
+[Author]
+    name = "Smgglrs"
+
+[params]
+
+    [params.colors]
+        background = "#000000"
+	foreground = "#ffffff"
+	hover = "#ffffff"
+
+    [[params.links]]
+        icon = "github"
+	title = "Github"
+	url = "https://github.com/smgglrs"
